@@ -1,0 +1,3 @@
+class Constants{
+  static String imageurl = 'https://www.google.com/imgres?q=error%20image&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F558%2F606%2Fpng-transparent-error-icon-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Derror&docid=rlXAnLsQJ2XzvM&tbnid=tlz7_bzwZRSVRM&vet=12ahUKEwiyxaWNjcyGAxXbrZUCHWVcAukQM3oECH4QAA..i&w=360&h=360&hcb=2&ved=2ahUKEwiyxaWNjcyGAxXbrZUCHWVcAukQM3oECH4QAA';
+}
